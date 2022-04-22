@@ -1,5 +1,4 @@
 from tkinter import *
-from webbrowser import get
 import requests
 
 def get_quote():
